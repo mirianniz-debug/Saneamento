@@ -4,6 +4,8 @@ Geoportal interativo para visualização da rede coletora de esgoto e infraestru
 
 🔗 **Acesse ao vivo:** https://mirianniz-debug.github.io/Saneamento/
 
+👤 **Parte do portfólio de:** https://mirianniz-debug.github.io/Portfolio/
+
 ## Sobre
 
 Mapa web para consulta espacial da rede de coleta de esgoto, servindo de apoio ao planejamento e à gestão de saneamento básico.
